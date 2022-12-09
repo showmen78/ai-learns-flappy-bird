@@ -1,0 +1,28 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    overflow:hidden;
+}
+
+#screen{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(66, 66, 66);
+    overflow:hidden;
+}
+
+#left-wall{
+    width: 100vw;
+    height: 98vh;
+    background-color: rgb(82, 83, 83);
+    transition: .1s all ease-in-out;
+    overflow:hidden;
+    background-image: url(sky.jpg);
+    background-position: center;
+    background-size: contain;
+}
+
