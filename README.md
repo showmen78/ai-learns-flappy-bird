@@ -8,9 +8,9 @@ This project implements a simulation of the Flappy Bird game, where an Artificia
 * Interactive Learning: The simulation provides an engaging way to learn about AI, neural networks, and genetic algorithms by visualizing how different generations of birds perform better through evolution.
 
 ## Technologies Used:
-JavaScript for the game logic and simulation.
-HTML/CSS for the user interface and visual elements.
-Custom Neural Network Implementation for training birds using a feedforward network with multiple layers.
-Genetic Algorithm for optimizing the neural network weights over generations.
+* JavaScript for the game logic and simulation.
+* HTML/CSS for the user interface and visual elements.
+* Custom Neural Network Implementation for training birds using a feedforward network with multiple layers.
+* Genetic Algorithm for optimizing the neural network weights over generations.
 
 This project offers an exciting combination of AI and game development, providing a fun and educational way to understand machine learning concepts.
